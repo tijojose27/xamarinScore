@@ -157,4 +157,7 @@
       <Name>xamarinScore</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\paper.jpg" />
+  </ItemGroup>
 </Project>
